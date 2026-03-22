@@ -10,8 +10,8 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
   - Virtual COM Port (VCP)
   - USB Power Management: Supports requesting more than 100 mA from the host PC to power the application board.
   - SWO Support: Includes a Serial Wire Output (SWO) pin for real-time trace debugging, which is often missing on common "dongle" clones of the V2.
-<br>
-- `st-info` - a programmer and chip information tool
+
+
 - `Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings
 - `Schematic_STLinkV2_1_rev1_0.pdf` - Schematic
 - `Project/` - Project files
