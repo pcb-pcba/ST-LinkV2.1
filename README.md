@@ -13,6 +13,9 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 
 
 `Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings
+
 `Schematic_STLinkV2_1_rev1_0.pdf` - Schematic
+
 `Project/` - Project files
+
 `Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
