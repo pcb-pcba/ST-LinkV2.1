@@ -3,6 +3,9 @@
 <p align="center">
   <img src="1-1.jpg" height="300"/>
 </p>
+<p align="center">
+  <img src="5.png">
+</p>
 
 Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 **Features**
