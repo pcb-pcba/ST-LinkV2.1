@@ -4,8 +4,8 @@
   <img src="1-1.jpg" height="300"/>
 </p>
 <div style="display: flex; gap: 10px;">
-  <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
-  <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
+  <img src="Project/1.jpg" style="width: 49%; height: auto;" alt="Top">
+  <img src="Project/2.jpg" style="width: 49%; height: auto;" alt="Bottom">
 </div>
 
 Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
