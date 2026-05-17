@@ -1,11 +1,11 @@
 # ST-Link V2.1
 
 <p align="center">
-  <img src="1-1.png" style="width: 70%">
+  <img src="Images/1-1.png" style="width: 70%">
 </p>
 <div align="center" style="display: flex; gap: 10px; width: 100%">
-  <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
-  <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
+  <img src="Images/1.png" style="width: 49%; height: auto;" alt="Top">
+  <img src="Images/2.png" style="width: 49%; height: auto;" alt="Bottom">
 </div>
 
 Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
@@ -28,7 +28,7 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 The stack parameters for proper USB port operation are as follows:
 
 <div align="center">
-  <img src="5.png" alt="ST-Link V2.1 Stackup" style="max-width: 500px; width: 90%;">
+  <img src="Images/5.png" alt="ST-Link V2.1 Stackup" style="max-width: 500px; width: 90%;">
 </div>
 
 This is the default stackup of one of those Chinese factories.
