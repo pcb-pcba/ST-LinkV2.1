@@ -41,5 +41,6 @@ The stack parameters for proper USB port operation are as follows:
 <div align="center">
   <img src="Images/5.png" alt="ST-Link V2.1 Stackup" style="max-width: 500px; width: 90%;">
 </div>
+<br>
 
 This is the default stackup of one of those Chinese factories.
