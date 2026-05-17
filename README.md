@@ -1,7 +1,7 @@
 # ST-Link V2.1
 
 <p align="center">
-  <img src="1-1.png" height="300"/>
+  <img src="1-1.png" width: 70%>
 </p>
 <div align="center" style="display: flex; gap: 10px; width: 100%">
   <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
