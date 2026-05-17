@@ -27,6 +27,8 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 ## Stackup
 The stack parameters for proper USB port operation are as follows:
 
-![display](5.png)
+<div align="center">
+  <img src="Project/5.png" alt="ST-Link V2.1 Stackup" style="max-width: 500px; width: 70%;">
+</div>
 
 This is the default stackup of one of those Chinese factories.
