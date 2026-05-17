@@ -3,6 +3,10 @@
 <p align="center">
   <img src="1-1.jpg" height="300"/>
 </p>
+<div style="display: flex; gap: 10px;">
+  <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
+  <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
+</div>
 
 Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 **Features**
@@ -19,3 +23,10 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 `Project/` - Project files
 
 `Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
+
+## Stackup
+It is a 4 layer board which provides proper grounding. The stack parameters for proper USB port operation are as follows:
+
+![display](Project/5.png)
+
+This is the default stackup of one of those Chinese factories.
