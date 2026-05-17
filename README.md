@@ -28,7 +28,7 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 
 [Open](Draftsman_STLinkV2_1_rev1_0.pdf) - Some useful drawings
 
-<a href="Draftsman_STLinkV2_1_rev1_0.pdf" target="_blank">`Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings</a>
+<a href="Draftsman_STLinkV2_1_rev1_0.pdf" target="_blank">`Draftsman_STLinkV2_1_rev1_0.pdf`</a>  - Some useful drawings
 
 `Draftsman_STLinkV2_1_rev1_0.pdf` - Some useful drawings
 
