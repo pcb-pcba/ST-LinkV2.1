@@ -25,7 +25,7 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 `Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
 
 ## Stackup
-It is a 4 layer board which provides proper grounding. The stack parameters for proper USB port operation are as follows:
+The stack parameters for proper USB port operation are as follows:
 
 ![display](Project/5.png)
 
