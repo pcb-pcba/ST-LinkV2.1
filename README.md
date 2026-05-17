@@ -30,9 +30,9 @@ Small version of ST-Link v2.1 (37mm x 14mm board)<br><br>
 
 <a href="Schematic_STLinkV2_1_rev1_0.pdf" target="_blank">`Schematic_STLinkV2_1_rev1_0.pdf`</a> - Schematic
 
-<a href="Project/" target="_blank">`Project/` - Project files
+<a href="Project/">`Project/`</a> - Project files
 
-`Gerber/STLinkV2_1_rev1_0.zip` - Gerber files
+<a href="Gerber/" target="_blank">`Gerber/STLinkV2_1_rev1_0.zip`</a> - Gerber files
 
 ## Stackup
 The stack parameters for proper USB port operation are as follows:
