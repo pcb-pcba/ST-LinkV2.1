@@ -3,7 +3,7 @@
 <p align="center">
   <img src="1-1.jpg" height="300"/>
 </p>
-<div style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; gap: 10px; width: 100%">
   <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
   <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
 </div>
